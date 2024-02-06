@@ -1,0 +1,11 @@
+{
+  "key": "getHoliday",
+  "remark": "获取单个节假日信息",
+  "baseUrl": "https://www.mxnzp.com/api/holiday/single/",
+  "url": "20231215",
+  "data": {
+    "app_id": "j7rn8nqbitdolovf",
+    "app_secret": "V7afm6D5yz3g8kE2ywjL3GgVHftvBb5d",
+    "ignoreHoliday": false
+  }
+}

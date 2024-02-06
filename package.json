@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"commander": "^11.1.0",
+		"inquirer": "8.2.5",
+		"node-fetch": "2",
+		"selenium-webdriver": "^4.16.0"
+	}
+}
